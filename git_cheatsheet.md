@@ -10,3 +10,9 @@
 
 ## push
  push to remote repository
+
+## general notes
+this is great
+
+## one more thing
+you are great too
