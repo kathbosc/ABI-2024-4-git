@@ -1,0 +1,3 @@
+add: add file to staging area
+status:desctiption of where files are, how many commits have been done
+commit:commit files to local repository with a message of what has changed
